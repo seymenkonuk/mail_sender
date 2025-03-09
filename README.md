@@ -173,10 +173,10 @@ Uygulama **Docker** üzerinden kolayca çalıştırılabilir.
 ```
 ├── mail_sender/
 │   ├── attachments/			#Mail ile gönderilecek ek dosyalar
-│   │   └── shared/				#Mail ile herkese ortak olarak gönderilecek ek dosyalar
-│   ├── settings/				#ayar dosyaları
-│   ├── temp_message/				#mail içeriği şablonları
-│   └── src/					#projenin kaynak kodları
+│   │   └── shared/			#Mail ile herkese ortak olarak gönderilecek ek dosyalar
+│   ├── settings/			#ayar dosyaları
+│   ├── temp_message/			#mail içeriği şablonları
+│   └── src/				#projenin kaynak kodları
 ```
 
 <p align="right">(<a href="#mail-sender">back to top</a>)</p>
