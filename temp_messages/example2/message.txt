@@ -1,0 +1,9 @@
+Merhaba {{$NAME$}},
+
+"{{#EVENT_NAME#}}" etkinliğimize katılımınız için teşekkür ederiz! Aşağıda, bu etkinliğe gösterdiğiniz ilgi ve katkı için size özel olarak hazırlanmış katılım sertifikanızı bulabilirsiniz.
+
+Gelecek etkinliklerimizde de sizi aramızda görmekten mutluluk duyarız!
+<hr>
+Başarılarınızın devamını dileriz.
+Saygılarımızla,
+{{#EVENT_ORGANIZER#}}
